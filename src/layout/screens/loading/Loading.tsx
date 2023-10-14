@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './loading.module.scss';
 import { ReactComponent as Logo } from '../../../assets/logo/Main.svg';
 import { Spinner } from '@chakra-ui/react';
